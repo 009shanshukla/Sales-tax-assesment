@@ -1,7 +1,7 @@
 # Sales-tax-assesment
 An assesment for an interview, conducted by Makajjai Edu Tech company.
 
-#Problem: Sales Tax
+# Problem: Sales Tax
 
 Basic sales tax is applicable at a rate of 10% on all goods, except books, food,
 and medical products that are exempt. Import duty is an additional sales tax
